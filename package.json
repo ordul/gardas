@@ -1,0 +1,17 @@
+{
+  "name": "dark-voice-bots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+ "scripts": { "start": "node app.js" },
+  "author": "polemikal",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord.js": "^13.0.1",
+    "fs": "^0.0.2",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "opusscript": "^0.0.8"
+  }
+}
